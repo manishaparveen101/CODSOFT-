@@ -1,1 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: whitesmoke;
+  margin: 0;
+  padding: 0;
+}
 
+header {
+  background-color: #34495e;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.search-section {
+  text-align: center;
+  margin: 20px;
+}
+
+.search-section input {
+  width: 90%;
+  max-width: 400px;
+  padding: 10px;
+  font-size: 1em;
+  border: 2px solid deepskyblue;
+  border-radius: 5px;
+}
+
+.job-listings {
+  padding: 20px;
+}
+
+.job-card {
+  background-color: white;
+  border: 1px solid whitesmoke;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+footer {
+  text-align: center;
+  font-size: 0.9em;
+  color: darkgray;
+  padding: 15px;
+}
