@@ -22,7 +22,7 @@ I created a tribute page dedicated to **Sundar Pichai**, using only **HTML and C
 
 🔗 [View Code Here](https://github.com/manishaparveen101/CODSOFT-)
 
-This is a **simple job board website** built using **HTML, CSS, and basic JavaScript**. It includes job listings and a search bar to filter job cards.
+This is a **simple job board website** built using **HTML,CSS, and basic JavaScript**. It includes job listings and a search bar to filter job cards.
 
 📌 Features:
 - Searchable job listing cards
